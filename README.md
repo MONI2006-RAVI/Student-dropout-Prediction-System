@@ -13,3 +13,7 @@ This project predicts whether a student is likely to drop out based on academic 
 ## Run the Project
 
 streamlit run app.py
+
+##Streamlit
+Local URL: http://localhost:8501
+Network URL: http://10.194.173.218:8501
